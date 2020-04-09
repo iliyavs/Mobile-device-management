@@ -24,4 +24,6 @@ koutcall = 2               # Выставим
 kincall = 0                # параметры 
 ksms = 1                   # тарифа
 bill = tariff(outcall, incall, koutcall, kincall, ksms)
-print(bill,' руб.')
+f = open('bill.txt', 'w')
+f.write(str(bill))
+f.close()
