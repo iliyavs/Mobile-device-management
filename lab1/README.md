@@ -1,4 +1,4 @@
-Launch: python3 lab1.py
+Launch: python3 code.py
 
 Input files: data.csv
 
