@@ -1,10 +1,10 @@
-Launch: python3 code.py
+Запуск: python3 code.py
 
-Input files: data.csv
+Входные данные: data.csv
 
-Dependecies: -
+Зависимости: -
 
-Result: file 'bill.txt'
+Выходные данные: файл 'bill.txt'
 
 Contacts: 
 
