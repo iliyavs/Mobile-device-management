@@ -4,7 +4,7 @@
 
 Зависимости: matplotlib, datetime
 
-Выходные данные: файл 'bill.txt'
+Выходные данные: файл 'bill.txt', файл 'graph.png'
 
 Contacts:
 
